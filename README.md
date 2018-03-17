@@ -1,6 +1,6 @@
 # generator-react-redux
 
-Yeoman generator for bootstrapping a simple ReactJS app with Redux.
+[Yeoman](http://yeoman.io/) generator for bootstrapping a simple ReactJS app with Redux.
 
 !!! STILL UNDER DEVELOPMENT !!!
 
